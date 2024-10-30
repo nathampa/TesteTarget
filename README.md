@@ -12,7 +12,8 @@ Análise de Faturamento: Cálculo do menor e maior faturamento diário, além de
 Percentual de Faturamento por Estado: Cálculo do percentual de representação de cada estado dentro do faturamento mensal de uma distribuidora.
 
 Inversão de String: Implementação de um método para inverter os caracteres de uma string, evitando o uso de funções prontas.
-Tecnologias Utilizadas
+
+**Tecnologias Utilizadas**
 
 Java: Todas as soluções foram implementadas utilizando a linguagem Java.
 
