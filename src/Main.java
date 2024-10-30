@@ -21,7 +21,7 @@ public class Main {
         }
 
         //Questão 3
-        XmlReader.lerXml("C:\\Users\\Nathan Ferreira\\Downloads\\dados (2).xml");
+        XmlReader.lerXml("src/dados (2).xml");
         Resolucao questao3 = new Resolucao();
 
         System.out.println("Maior valor: " + questao3.getMaiorValor() + " no dia " + questao3.getDiaMaiorValor());
